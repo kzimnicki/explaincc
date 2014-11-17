@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-redis:6.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-redis/6.6.2/a1e443f12ea7bfbfe0dbea3e2300189111e118f3/finagle-redis-6.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-redis/6.6.2/f6544f083ec44b706ad92ae6ffd18bf75a2d365a/finagle-redis-6.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

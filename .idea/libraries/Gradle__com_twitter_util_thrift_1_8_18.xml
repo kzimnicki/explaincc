@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:util-thrift:1.8.18">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-thrift/1.8.18/44d27fd332f1453586b7ff8f8bde4837fdbac7bc/util-thrift-1.8.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-thrift/1.8.18/f272635cfa43880bee9f52e6f0686638628140ec/util-thrift-1.8.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-ostrich4:6.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-ostrich4/6.6.2/fc404b3af701a9bf9930831d7c797150787b5060/finagle-ostrich4-6.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-ostrich4/6.6.2/d3f791dbb41497ba8bfc585e9c98a92818737a6f/finagle-ostrich4-6.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

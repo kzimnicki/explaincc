@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-thrift:1.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-thrift/1.9.0/7072fd7a02685d5724b3b95d70d7b3c9127f50a3/finagle-thrift-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-thrift/1.9.0/10f4fa0eba5713bc93acd59f971b2c651db0add/finagle-thrift-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

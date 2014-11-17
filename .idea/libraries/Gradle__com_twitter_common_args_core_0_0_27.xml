@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:args-core:0.0.27">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/args-core/0.0.27/cb49f26e64289817e3e0c2130074214a4af7eb4d/args-core-0.0.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/args-core/0.0.27/8aea415e4223c219f264b76b561bf28fa94095b9/args-core-0.0.27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

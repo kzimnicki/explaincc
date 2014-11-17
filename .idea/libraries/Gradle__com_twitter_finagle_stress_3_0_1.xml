@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-stress:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-stress/3.0.1/8e3d02043962d28f81204dbd786bb1f4f4fa0d79/finagle-stress-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-stress/3.0.1/39be48d981db789f38b67c792f3bc6ae0b1d0a11/finagle-stress-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

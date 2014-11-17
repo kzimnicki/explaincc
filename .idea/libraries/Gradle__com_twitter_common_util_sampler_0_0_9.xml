@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:util-sampler:0.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/util-sampler/0.0.9/890177864a699634c70d20c3f359978bc2dd5f24/util-sampler-0.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/util-sampler/0.0.9/7987d0f9563e38fad4c070943729b3cead59e610/util-sampler-0.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

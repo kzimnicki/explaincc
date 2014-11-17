@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-memcached:6.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-memcached/6.6.2/feb6f576be0a960c5cbd7766ab17f05bfd44e68/finagle-memcached-6.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-memcached/6.6.2/7b31eb8061119d1f76874de139444bc4deb3e9ab/finagle-memcached-6.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

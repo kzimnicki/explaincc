@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:net-pool:0.0.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/net-pool/0.0.12/f501f45fdaaa9a37dd1176362a8d053fed8e10c/net-pool-0.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/net-pool/0.0.12/a67b3d0178491a4f7dc90e9606f26ffd6b10f73c/net-pool-0.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

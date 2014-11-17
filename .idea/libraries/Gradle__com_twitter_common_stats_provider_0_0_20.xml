@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:stats-provider:0.0.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/stats-provider/0.0.20/121f21923c253a1b529d875f52ceadf499b05bdb/stats-provider-0.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/stats-provider/0.0.20/b54f33af12fde9b11197888567dc795a1fd7cb10/stats-provider-0.0.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

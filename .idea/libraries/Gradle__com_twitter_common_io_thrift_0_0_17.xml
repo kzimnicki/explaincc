@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:io-thrift:0.0.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/io-thrift/0.0.17/98435935e2877291b5cd2444b99424df8fc2cbfb/io-thrift-0.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/io-thrift/0.0.17/e245c5746d741e8cb2b9133983de02a37b4610ae/io-thrift-0.0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:net-util:0.0.28">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/net-util/0.0.28/70911c431340d3be81e65e958784e3533d4846ae/net-util-0.0.28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/net-util/0.0.28/2389e5f75ba636c83a835e065bca0243aabaab89/net-util-0.0.28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

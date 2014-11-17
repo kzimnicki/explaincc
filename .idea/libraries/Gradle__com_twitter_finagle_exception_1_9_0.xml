@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-exception:1.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-exception/1.9.0/f7939a3398c3ae453b9a528af17f1382727a1991/finagle-exception-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-exception/1.9.0/54b96752345eddc949fed6c7fad5122ba87d12f0/finagle-exception-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

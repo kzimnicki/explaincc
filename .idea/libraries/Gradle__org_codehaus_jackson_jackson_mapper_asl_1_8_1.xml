@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.jackson:jackson-mapper-asl:1.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.8.1/8e67066e4890de79d9fb0ce22b3f0b31367ac535/jackson-mapper-asl-1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.8.1/7d934a5d1729dcc88cd464bfbd7e75b5cbc02d20/jackson-mapper-asl-1.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

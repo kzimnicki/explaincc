@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:util-hashing:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-hashing/3.0.1/635eeb89da79bb4931ee52bc176057863474a391/util-hashing-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-hashing/3.0.1/d844fbcb2cffaf37c8db3a53f2ed8e9263d3527b/util-hashing-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

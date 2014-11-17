@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-kestrel:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-kestrel/3.0.1/a97b1c320d6ef112b4597385b077dd2613f79cd0/finagle-kestrel-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-kestrel/3.0.1/eca789fa644dce1d597b7c6a100f1f20304f988e/finagle-kestrel-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

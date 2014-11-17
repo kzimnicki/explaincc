@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:base:0.0.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/base/0.0.17/8dd0a497707617a4d18fa902592b026bf3012a45/base-0.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/base/0.0.17/b919d23895b7b4c5137ce148da3c0b79d9623c77/base-0.0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

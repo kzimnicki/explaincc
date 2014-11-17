@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:ostrich:4.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/ostrich/4.8.2/37d2a90cf7afdb0d82f8bd6103fd5f34afa30546/ostrich-4.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/ostrich/4.8.2/8e321110cb91737fb9e8bcad44902881c21aaa9a/ostrich-4.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

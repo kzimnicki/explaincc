@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:util-system-mocks:0.0.25">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/util-system-mocks/0.0.25/1d1b65961d66566c3725d9a239a45a9f00db37b2/util-system-mocks-0.0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/util-system-mocks/0.0.25/a2a107f76a3e4f12240cade4a2f4023d2ebb7f59/util-system-mocks-0.0.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:finagle-stream:6.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-stream/6.6.2/c90722c14891516818c85df153c2740e783a0122/finagle-stream-6.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-stream/6.6.2/8d8303add455a597534ac9c7ec9751abad16b89d/finagle-stream-6.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

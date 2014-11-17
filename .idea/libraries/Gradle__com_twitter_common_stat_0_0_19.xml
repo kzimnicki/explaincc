@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.common:stat:0.0.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/stat/0.0.19/8a0b2f613c071195e20abc8a109776df6467df6/stat-0.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter.common/stat/0.0.19/61751c471ce7153517fe9fa2945761df47e68309/stat-0.0.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

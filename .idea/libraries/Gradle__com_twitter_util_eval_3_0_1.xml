@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter:util-eval:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-eval/3.0.1/53a9f9dc6e1ed3d6f2ff052b5e24c156608a6a6/util-eval-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twitter/util-eval/3.0.1/234faadeb79f04aec50a80f7404b2a6fde3801/util-eval-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
