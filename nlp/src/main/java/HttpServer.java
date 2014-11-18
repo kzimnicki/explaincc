@@ -12,14 +12,16 @@ public class HttpServer {
 
     public static void main(String[] args) {
 
-        NER ner = new NER();
+        final NER ner = new NER();
 
         Service<HttpRequest, HttpResponse> service = new Service<HttpRequest, HttpResponse>() {
             @Override
             public Future<HttpResponse> apply(HttpRequest request) {
+                String content = request.getContent().toString(CharsetUtil.UTF_8);
+                String json = ner.process(content);
                 HttpResponse res = new DefaultHttpResponse(
                         HttpVersion.HTTP_1_1, HttpResponseStatus.OK);
-                res.setContent(ChannelBuffers.copiedBuffer("Hello World!",
+                res.setContent(ChannelBuffers.copiedBuffer(json,
                         CharsetUtil.UTF_8));
                 res.setHeader(HttpHeaders.Names.CONTENT_TYPE,
                         "text/plain; charset=UTF-8");
