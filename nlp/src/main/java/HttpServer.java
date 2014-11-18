@@ -17,6 +17,8 @@ public class HttpServer {
         Service<HttpRequest, HttpResponse> service = new Service<HttpRequest, HttpResponse>() {
             @Override
             public Future<HttpResponse> apply(HttpRequest request) {
+                System.out.println(request.getHeaderNames());
+                System.out.println(request.getContent());
                 String content = request.getContent().toString(CharsetUtil.UTF_8);
                 String json = ner.process(content);
                 HttpResponse res = new DefaultHttpResponse(
