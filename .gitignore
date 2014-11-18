@@ -2,3 +2,6 @@
 .idea
 gradle
 build
+nlp/gradlew
+nlp/gradlew.bat
+nlp/nlp.iml
